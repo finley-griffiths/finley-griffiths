@@ -1,4 +1,4 @@
-<h1 align="center"><i><code>Hello There!</i></code></h1>
+<h1 align="center"><code>Hello There!</code></h1>
 I'm <a href="https://https://github.com/finley-griffiths"><b>Finley</b></a>, a first year Computer Science student at the <b>University of Auckland</b>.
 <hr>
 Looking to dive into <b>Software Development</b> and potentially <b>Cyber Security</b>
