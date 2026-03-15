@@ -1,7 +1,7 @@
 <h1 align="center"><i><code>Hello There!</i></code></h1>
 I'm <a href="https://https://github.com/finley-griffiths"><b>Finley</b></a>, a first year Computer Science student at the <b>University of Auckland</b>.
 <hr>
-Looking to dive into <b>Software Engineering</b> and potentially <b>Cyber Security</b>
+Looking to dive into <b>Software Development</b> and potentially <b>Cyber Security</b>
 
 Here to enjoy the process of building projects and learning as I progress :)
 
@@ -12,8 +12,9 @@ Here to enjoy the process of building projects and learning as I progress :)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <h2> <code> >> Projects /ᐠ - ˕ - ᐟ\ ฅ⚒ </code> </h2>
-<img src="https://img.shields.io/badge/Wheel%20of%20Fortune-Complete-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Portfolio%20Website-In%20Progress-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wheel%20of%20Fortune%20Game-Complete-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Binary,%20Hex,%20Octal,%20Decimal%20Calculator-In%20Progress-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio%20Website-Planned-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/F125%20Telemetry%20Overlay-Planned-blue?style=for-the-badge"/>
 
 <h2> <code> >> Learning  /ᐠ o ˕ o マ ✦ </code> </h2>
