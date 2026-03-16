@@ -9,13 +9,24 @@ Here to enjoy the process of building projects and learning as I progress :)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 <h2> <code> >> Projects /ᐠ - ˕ - ᐟ\ ฅ⚒ </code> </h2>
 <img src="https://img.shields.io/badge/Wheel%20of%20Fortune%20Game-Complete-darkgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+
 <img src="https://img.shields.io/badge/Binary,%20Hex,%20Octal,%20Decimal%20Calculator-In%20Progress-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=flat-square"/>
+
 <img src="https://img.shields.io/badge/Portfolio%20Website-Planned-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=flat-square"/>
+
 <img src="https://img.shields.io/badge/F125%20Telemetry%20Overlay-Planned-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TBD-grey?logo=&style=flat-square"/>
 
 <h2> <code> >> Learning  /ᐠ o ˕ o マ ✦ </code> </h2>
 
