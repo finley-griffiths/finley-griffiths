@@ -16,7 +16,11 @@ Here to enjoy the process of building projects and learning as I progress :)
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Binary,%20Hex,%20Octal,%20Decimal%20Calculator-In%20Progress-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/F1%20Fantasy%20League%20Data%20Tracker-In%20Progress-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Binary,%20Hex,%20Octal,%20Decimal%20Calculator-Planned-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=flat-square"/>
 
