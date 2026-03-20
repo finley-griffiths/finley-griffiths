@@ -11,6 +11,12 @@ Here to enjoy the process of building projects and learning as I progress :)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
+<h2> <code> >> Learning  /ᐠ o ˕ o マ ✦ </code> </h2>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 <h2> <code> >> Projects /ᐠ - ˕ - ᐟ\ ฅ⚒ </code> </h2>
 <img src="https://img.shields.io/badge/Wheel%20of%20Fortune%20Game-Complete-darkgreen?style=for-the-badge"/>
 
@@ -31,12 +37,6 @@ Here to enjoy the process of building projects and learning as I progress :)
 <img src="https://img.shields.io/badge/F125%20Telemetry%20Overlay-Planned-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/TBD-grey?logo=&style=flat-square"/>
-
-<h2> <code> >> Learning  /ᐠ o ˕ o マ ✦ </code> </h2>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 ___
 <h2> <code> >> My Links /ᐠ - ˕ -マ ᶻ 𝗓 𐰁 </code> </h2>
