@@ -23,7 +23,7 @@ Here to enjoy the process of building projects and learning as I progress :)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-<h3> <code> <a href="">ToDo App</a> - Building </code></h3>
+<h3> <code> <a href="">ToDo/Organisational App</a> - Building </code></h3>
 <p><i>Building to practice React, TypeScript, and modern frontend workflows.</i></p>
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
