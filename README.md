@@ -14,17 +14,21 @@ Here to enjoy the process of building projects and learning as I progress :)
 <h2> <code> >> Learning </code> </h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <h2> <code> >> Projects </code> </h2>
-<img src="https://img.shields.io/badge/Wheel%20of%20Fortune%20Game-Complete-darkgreen?style=for-the-badge"/>
+<h3> <code> <a href="https://github.com/finley-griffiths/Wheel-of-Fortune-Game">Wheel of Fortune Game</a> - Complete </code></h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Portfolio%20Website-Planned-blue?style=for-the-badge"/>
+<h3> <code> <a href="">ToDo App</a> - Building </code></h3>
+<p><i>Building to practice React, TypeScript, and modern frontend workflows.</i></p>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=flat-square"/>
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
 ___
 <h2> <code> >> My Links </code> </h2>
