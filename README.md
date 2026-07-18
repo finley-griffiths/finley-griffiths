@@ -1,38 +1,32 @@
-<h1 align="center"><code>Hello There!</code></h1>
-I'm <a href="https://github.com/finley-griffiths"><b>Finley</b></a>, a first year Computer Science student at the <b>University of Auckland</b>.
-<hr>
+<div align="center">
+<code>Finley Griffiths / 1st year student at UoA / D1 larper</code>
+<br><br>
+<code>software development / cyber security</code>
 
-<h2> <code> >> Skills </code> </h2>
+<br>
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+<code>stack</code>
 
-<h2> <code> >> Learning </code> </h2>
+![Python](https://custom-icon-badges.demolab.com/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=000000)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h2> <code> >> Projects </code> </h2>
-<h3> <code> <a href="https://github.com/finley-griffiths/Wheel-of-Fortune-Game">Wheel of Fortune Game</a> - Complete </code></h3>
+<code>currently learning</code> 
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)
 
-<h3> <code> <a href="">ToDo/Organisational App</a> - Building </code></h3>
-<p><i>Building to practice React, JavaScript, and modern frontend workflows.</i></p>
+<code>links</code>
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-
-___
-<h2> <code> >> My Links </code> </h2>
-
-<a href="https://www.linkedin.com/in/finley-griffiths-3804a03b6/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="https://leetcode.com/u/finley-griffiths/" target="_blank"> ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) </a>
-<a href="https://https://github.com/finley-griffiths" target="_blank"> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) </a>
-<a href="mailto:finleygr1@icloud.com" title="finleygr1@icloud.com"> ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white) </a>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff&labelColor=000000)](https://linkedin.com/in/your-username)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=000000)](https://leetcode.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/your-username)
+</div>
 
 <!--
   ,-.       _,---._ __  / \
