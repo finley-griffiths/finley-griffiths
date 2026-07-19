@@ -1,11 +1,9 @@
 <div align="center">
-<code>Finley Griffiths / 1st year student at UoA / D1 larper</code>
-<br><br>
+<h3><code>Finley Griffiths</code></h3> 
+<code> 1st year student at UoA / D1 larper</code>
+<br>
 <code>software development / cyber security</code>
-
-<br>
-<br>
-
+<br><br>
 <code>stack</code>
 
 ![Python](https://custom-icon-badges.demolab.com/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)
@@ -23,9 +21,9 @@
 
 <code>links</code>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff&labelColor=000000)](https://linkedin.com/in/your-username)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=000000)](https://leetcode.com/your-username)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/your-username)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff&labelColor=000000)](https://linkedin.com/in/finley-griffiths)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=000000)](https://leetcode.com/u/finley-griffiths/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/finley-griffiths)
 </div>
 
 <!--
