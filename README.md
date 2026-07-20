@@ -4,6 +4,7 @@
 <br>
 <code>software development / cyber security</code>
 <br><br>
+
 <code>stack</code>
 
 ![Python](https://custom-icon-badges.demolab.com/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)
