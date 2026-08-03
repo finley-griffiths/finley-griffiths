@@ -1,5 +1,5 @@
 <div align="center">
-<h3><code>Finley Griffiths</code></h3> 
+<h1><code>Finley Griffiths</code></h1> 
 <code> 1st year student at UoA / D1 larper</code>
 <br>
 <code>software development / cyber security</code>
